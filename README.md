@@ -1,5 +1,5 @@
 # Google_Search
-The framework is based on Selenium Webdriver, maven, testNG and java.
+The framework is based on Page Object Model and Selenium Webdriver, maven, testNG and java.
 
 Task include:
 Open chrome
